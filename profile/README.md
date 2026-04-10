@@ -16,7 +16,7 @@ Contact me at `you@bybrooklyn.dev` or `Brooklyn.halmstad@proton.me`
 
 ### I also use
 
-![Logos of Cloudflare, Bun, GitHub, Discord, Fedora](https://skillicons.dev/icons?i=cf,bun,github,fedora,discord)
+![Logos of Cloudflare, Bun, GitHub, Discord](https://skillicons.dev/icons?i=cf,bun,github,discord)
 
 ### I want to learn
 
