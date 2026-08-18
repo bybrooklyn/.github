@@ -18,7 +18,7 @@
 
 ### I want to learn
 
-![Logos of Go, QT, Rust, Cloudflare Workers, C#, Zig, Swift, Bash, Godot, NuxtJS](https://skillicons.dev/icons?i=go,qt,rust,workers,cs,swift,bash,godot,nuxtjs)
+![Logos of Go, QT, Cloudflare Workers, C#, Zig, Swift, Bash, Godot, NuxtJS](https://skillicons.dev/icons?i=go,qt,workers,cs,swift,bash,godot,nuxtjs)
 
 ## Contact Me
 
