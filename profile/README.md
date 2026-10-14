@@ -3,7 +3,7 @@
 I'm quite a fan of open source.
 
 ## My game <3
-ttps://Playmatter.io
+https://Playmatter.io
 
 ## Get into contact
 
