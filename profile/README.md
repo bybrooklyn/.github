@@ -3,7 +3,8 @@
 I'm quite a fan of open source.
 
 ## My game <3
-https://Playmatter.io
+https://playmatter.io
+It is a 2d sandbox game!
 
 ## Get into contact
 
