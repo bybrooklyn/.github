@@ -1,12 +1,5 @@
-# Well helloooo there!
+# hello this is charlotte
 
-I'm quite a fan of open source.
+## you can find all good info about me on my [personal webiste](https://bybrooklyn.dev)
 
-## My game <3
-https://playmatter.io
-It is a 2d sandbox game!
-
-## Get into contact
-
-- Discord: [bybrooklyn](https://discord.com/users/909082197712068619)
-- Email: [you@bybrooklyn.dev](mailto:you@bybrooklyn.dev)
+Otherwise, this is my github for my programming projects. i have way too many projects.
